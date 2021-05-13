@@ -8,4 +8,7 @@
 -->
 I'm a Software developer, I enjoy working with Java, Spring, JavaScript, docker/k8s and microservices.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreiBarroso&theme=tokyonight" />
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreiBarroso&show_icons=true&theme=radical)
+
+
